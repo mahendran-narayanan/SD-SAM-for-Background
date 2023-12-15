@@ -22,9 +22,11 @@ Segment Anything Model (SAM) is used to produce object masks for the input image
 
 The model is used for extracting the object from the SD output.
 
-## Method
-1. 
-2. 
+## Steps
+1. Generate image and background using SD
+2. Extract the object
+3. Merge the resultant with SD.
+
 
 ## References
 ```
