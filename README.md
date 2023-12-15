@@ -30,6 +30,7 @@ The model is used for extracting the object from the SD output.
 ![SD-SAM-working](https://github.com/mahendran-narayanan/SD-SAM-for-Background/blob/main/Pictures/SD-SAM-working.jpg)
 
 ## References
+1. Stable Diffusion model
 ```
 @InProceedings{Rombach_2022_CVPR,
     author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
@@ -38,5 +39,14 @@ The model is used for extracting the object from the SD output.
     month     = {June},
     year      = {2022},
     pages     = {10684-10695}
+}
+```
+2. Segment Anything by Meta
+```
+@article{kirillov2023segment,
+  title={Segment anything},
+  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others},
+  journal={arXiv preprint arXiv:2304.02643},
+  year={2023}
 }
 ```
