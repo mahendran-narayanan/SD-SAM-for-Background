@@ -27,7 +27,7 @@ The model is used for extracting the object from the SD output.
 2. Extract the object
 3. Merge the resultant with SD.
 
-![SD-SAM-working](https://github.com/mahendran-narayanan/SD-SAM-for-Background/blob/main/Pictures/SD-SAM-working.jpg?raw=True)
+![SD-SAM-working](https://github.com/mahendran-narayanan/SD-SAM-for-Background/blob/main/Pictures/SD-SAM-working.jpg)
 
 ## References
 ```
